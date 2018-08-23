@@ -1,0 +1,6 @@
+C:\Users\NhatCao\Documents\VD\VD08\bin\VD8.dll.config
+C:\Users\NhatCao\Documents\VD\VD08\bin\VD8.dll
+C:\Users\NhatCao\Documents\VD\VD08\bin\VD8.pdb
+C:\Users\NhatCao\Documents\VD\VD08\obj\Debug\VD08.csproj.CoreCompileInputs.cache
+C:\Users\NhatCao\Documents\VD\VD08\obj\Debug\VD8.dll
+C:\Users\NhatCao\Documents\VD\VD08\obj\Debug\VD8.pdb

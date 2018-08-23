@@ -1,0 +1,5 @@
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\bin\VD9.dll.config
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\bin\VD9.dll
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\bin\VD9.pdb
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\obj\Debug\VD9.dll
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\obj\Debug\VD9.pdb

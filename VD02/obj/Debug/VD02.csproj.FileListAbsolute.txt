@@ -1,0 +1,7 @@
+C:\Users\NhatCao\Documents\VD\VD02\bin\VD2.dll.config
+C:\Users\NhatCao\Documents\VD\VD02\bin\VD2.dll
+C:\Users\NhatCao\Documents\VD\VD02\bin\VD2.pdb
+C:\Users\NhatCao\Documents\VD\VD02\obj\Debug\VD02.csprojResolveAssemblyReference.cache
+C:\Users\NhatCao\Documents\VD\VD02\obj\Debug\VD02.csproj.CoreCompileInputs.cache
+C:\Users\NhatCao\Documents\VD\VD02\obj\Debug\VD2.dll
+C:\Users\NhatCao\Documents\VD\VD02\obj\Debug\VD2.pdb

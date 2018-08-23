@@ -1,0 +1,6 @@
+d:\Temp\VD9\bin\VD9.dll.config
+d:\Temp\VD9\bin\VD9.dll
+d:\Temp\VD9\bin\VD9.pdb
+d:\Temp\VD9\obj\Debug\VD9.csprojResolveAssemblyReference.cache
+d:\Temp\VD9\obj\Debug\VD9.dll
+d:\Temp\VD9\obj\Debug\VD9.pdb

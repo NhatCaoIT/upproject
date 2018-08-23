@@ -1,0 +1,6 @@
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD7\bin\VD7.dll.config
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD7\bin\VD7.dll
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD7\bin\VD7.pdb
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD7\obj\Release\VD7.csprojResolveAssemblyReference.cache
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD7\obj\Release\VD7.dll
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD7\obj\Release\VD7.pdb

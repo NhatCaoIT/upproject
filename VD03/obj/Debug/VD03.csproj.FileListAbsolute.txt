@@ -1,0 +1,7 @@
+C:\Users\NhatCao\Documents\VD\VD03\bin\VD3.dll.config
+C:\Users\NhatCao\Documents\VD\VD03\bin\VD3.dll
+C:\Users\NhatCao\Documents\VD\VD03\bin\VD3.pdb
+C:\Users\NhatCao\Documents\VD\VD03\obj\Debug\VD03.csprojResolveAssemblyReference.cache
+C:\Users\NhatCao\Documents\VD\VD03\obj\Debug\VD03.csproj.CoreCompileInputs.cache
+C:\Users\NhatCao\Documents\VD\VD03\obj\Debug\VD3.dll
+C:\Users\NhatCao\Documents\VD\VD03\obj\Debug\VD3.pdb

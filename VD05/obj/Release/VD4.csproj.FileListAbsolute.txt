@@ -1,0 +1,5 @@
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD4\bin\VD4.dll.config
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD4\bin\VD4.dll
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD4\bin\VD4.pdb
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD4\obj\Release\VD4.dll
+D:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD4\obj\Release\VD4.pdb

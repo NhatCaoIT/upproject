@@ -1,0 +1,14 @@
+C:\Users\NhatCao\Downloads\VD\VD01\bin\VD1.dll.config
+C:\Users\NhatCao\Downloads\VD\VD01\bin\VD1.dll
+C:\Users\NhatCao\Downloads\VD\VD01\bin\VD1.pdb
+C:\Users\NhatCao\Downloads\VD\VD01\obj\Debug\VD01.csprojResolveAssemblyReference.cache
+C:\Users\NhatCao\Downloads\VD\VD01\obj\Debug\VD01.csproj.CoreCompileInputs.cache
+C:\Users\NhatCao\Downloads\VD\VD01\obj\Debug\VD1.dll
+C:\Users\NhatCao\Downloads\VD\VD01\obj\Debug\VD1.pdb
+C:\Users\NhatCao\Documents\VD\VD01\bin\VD1.dll.config
+C:\Users\NhatCao\Documents\VD\VD01\bin\VD1.dll
+C:\Users\NhatCao\Documents\VD\VD01\bin\VD1.pdb
+C:\Users\NhatCao\Documents\VD\VD01\obj\Debug\VD01.csprojResolveAssemblyReference.cache
+C:\Users\NhatCao\Documents\VD\VD01\obj\Debug\VD01.csproj.CoreCompileInputs.cache
+C:\Users\NhatCao\Documents\VD\VD01\obj\Debug\VD1.dll
+C:\Users\NhatCao\Documents\VD\VD01\obj\Debug\VD1.pdb

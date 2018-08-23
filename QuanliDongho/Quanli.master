@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Home.Master" AutoEventWireup="true" CodeBehind="Quanli.master.cs" Inherits="QuanliDongho.Quanli" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="t" runat="server">
+
+
+
+     <div> <asp:ContentPlaceHolder ID="q" runat="server">
+         <p>
+             TICK CHON DE QUAN LY</p>
+         <asp:Button NavigateUrl="~/view.aspx" ID="Button1" runat="server" Text="XEM THONG TIN CHI TIET" />
+         <p>
+             <asp:Button NavigateUrl="~/insert.aspx" ID="Button2" runat="server" Text="CHINH SUA THONG TIN" Width="230px" />
+         </p>
+         <p>
+             <asp:Button NavigateUrl="~/delete.aspx" ID="Button3" runat="server" Text="XOA THONG TIN" Width="227px" />
+         </p>
+         <p>
+             <asp:Button NavigateUrl="~/.aspx" ID="Button4" runat="server" Text="CAP NHAT THONG TIN" Width="230px" />
+         </p>
+        </asp:ContentPlaceHolder>
+           </div>
+</asp:Content>

@@ -1,0 +1,7 @@
+C:\Users\NhatCao\Documents\VD\VD05\bin\VD5.dll.config
+C:\Users\NhatCao\Documents\VD\VD05\bin\VD5.dll
+C:\Users\NhatCao\Documents\VD\VD05\bin\VD5.pdb
+C:\Users\NhatCao\Documents\VD\VD05\obj\Debug\VD05.csprojResolveAssemblyReference.cache
+C:\Users\NhatCao\Documents\VD\VD05\obj\Debug\VD05.csproj.CoreCompileInputs.cache
+C:\Users\NhatCao\Documents\VD\VD05\obj\Debug\VD5.dll
+C:\Users\NhatCao\Documents\VD\VD05\obj\Debug\VD5.pdb

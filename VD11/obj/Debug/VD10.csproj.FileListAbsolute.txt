@@ -1,0 +1,6 @@
+d:\Temp\VD10\obj\Debug\VD10.csprojResolveAssemblyReference.cache
+d:\Temp\VD10\bin\VD10.dll.config
+d:\Temp\VD10\bin\VD10.dll
+d:\Temp\VD10\bin\VD10.pdb
+d:\Temp\VD10\obj\Debug\VD10.dll
+d:\Temp\VD10\obj\Debug\VD10.pdb

@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="VD.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <form id="form1" runat="server">
+    <section id="header">
+        <div>Đây là phần header của trang master
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" Height="24px" Width="285px">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/QT1.aspx" Text="Quản trị" Value="Quản trị"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/NV1.aspx" Text="Nhân viên" Value="Nhân viên"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/trangChu.aspx" Text="Chú thích" Value="Chú thích"></asp:MenuItem>
+            </Items>
+            </asp:Menu>
+            </asp:ContentPlaceHolder>
+        </div>
+    </section>
+<section >
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+</section>
+    <section id="footer">
+        <div>Đây là phần footer của trang master</div>
+    </section>
+         </form>
+</body>
+</html>

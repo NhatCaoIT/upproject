@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="QuanliDongho.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="height: 442px">
+     
+    <form id="form1" runat="server">
+       
+      
+       
+
+           <p style="margin-left: 480px">
+            QUAN LI CAP NHAT THONG TIN DONG HO</p>
+        </asp:ContentPlaceHolder>
+           </div>
+        <asp:ContentPlaceHolder ID ="a" runat="server">
+
+        </asp:ContentPlaceHolder>
+       
+    </form>
+     
+</body>
+</html>

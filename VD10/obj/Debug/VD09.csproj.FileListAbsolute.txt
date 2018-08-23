@@ -1,0 +1,6 @@
+d:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\bin\VD9.dll.config
+d:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\bin\VD9.dll
+d:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\bin\VD9.pdb
+d:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\obj\Debug\VD09.csprojResolveAssemblyReference.cache
+d:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\obj\Debug\VD9.dll
+d:\Google Drive\bg\HQT CSDL\Bai tap - vi du\VD\VD09\obj\Debug\VD9.pdb
